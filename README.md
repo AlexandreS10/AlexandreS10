@@ -1,10 +1,10 @@
 ## Olá, Mundo!👋
 
 🤗 Me chamo Alexandre da Silva Santros<br>
-🧑‍💻 Estudante da 11ª turma do Programa Starter Desenvolvimento Web Full Stack na Instituição Growdev<br>
+🧑‍💻 Estudante da 14ª turma do Programa Starter Desenvolvimento Web Full Stack na Instituição Growdev<br>
 ⚽ Costumo passear e jogar futebol nas minhas horas vagas<br> 
 📝 Ainda não trabalho na área de programação<br>
-💼 Tenho formação técnica em têxtil onde atualmente trabalho. 
+💼 Tenho formação técnica em têxtil  
 
 ##
 
